@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on new projects
 - 📫 reach me on linkedIn => imen lakrib
 
-JavaScript Python C++ MongoDB PostgreSQL MySQL Docker DigitalOcean Amazon AWS Microsoft Azure Google Cloud Git GitHub GitLab Raspberry Pi
 
 <!---
 imen-lakrib/imen-lakrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
