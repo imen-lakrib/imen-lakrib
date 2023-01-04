@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imen-lakrib
-- 👀 I’m a web Development
+- 👀 I’m a web Developer
 - 🌱 I’m currently working as a MERN developer
 - 💞️ I’m looking to collaborate on new projects
 - 📫 reach me on linkedIn => imen lakrib
