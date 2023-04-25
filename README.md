@@ -1,6 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/imenlakrib">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+  <a href="[your-twitter-URL](https://twitter.com/imen_lakrib)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 - 👋 Hi, I’m @imen-lakrib
 - 👀 I’m a web Developer
 - 🌱 I’m currently working as a MERN developer
