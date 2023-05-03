@@ -5,7 +5,7 @@
 <h3 align="center">A FullStack developer from Algeria</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on E-commerce website<br>👯 I’m looking to collaborate on new Project<br>💬 Ask me about : Reactjs / Nodejs<br>⚡ Fun fact: love Yoga && Chess
+🔭 I’m currently working on E-commerce website<br>👯 I’m looking to collaborate on new Project<br>💬 Ask me about : Reactjs / Nodejs<br>⚡ Fun fact: love Yoga && Chess - Rubik's best score 30s
 
 
 ## 🌐 Socials:
